@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+*.pyc
+!main.py
